@@ -263,9 +263,6 @@ Following inferences can be drawn from the report;
 
 ### Financial Performance Summary
 
-   A significant portion, 372 respondents, have switched to a data profession, indicating a strong trend towards data-related careers.
-
-
     Total Sales: $154.6 million
 
     Total Profit: $57.8 million
