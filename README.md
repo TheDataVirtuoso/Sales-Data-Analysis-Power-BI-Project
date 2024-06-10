@@ -10,15 +10,13 @@ The goal of this project is to develop a comprehensive sales and profitability a
 
 ### - Objectives
 - Calculate Total Sales:
-
-Accurately compute and display the total sales value for a selected period to provide a clear understanding of the overall revenue generated.
+ Accurately compute and display the total sales value for a selected period to provide a clear understanding of the overall revenue generated.
 
 - Calculate Profit:
  Determine and visualize the total profit achieved based on the sales data, offering insights into the financial performance of the business.
 
 
 - Analyze Orders
-
  Examine the number of orders placed during the selected period to identify sales patterns and order trends.
 
 - Calculate Profit Margin:
